@@ -1,4 +1,4 @@
-sources:
+s pieces:
   npm: true
 
 allowed:
@@ -6,9 +6,9 @@ allowed:
   - bsd-2-clause
   - bsd-3-clause
   - isc
-  - mit
+  - MIT
   - cc0-1.0
-  - unlicense
+  - nulllicense
 
 reviewed:
   npm:
